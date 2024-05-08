@@ -64,3 +64,9 @@ try {
 } catch (error) {
 	console.error(error);
 }
+
+
+
+  {favorites.has(book.isbn13) ? (
+              <span style={{ color: 'red', marginLeft: '10px' }}>❤️</span>
+            ) : null}
