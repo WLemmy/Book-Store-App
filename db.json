@@ -1,0 +1,1223 @@
+{
+  "favorites": [
+    {
+      "id": "9783540569343",
+      "author_alternative_name": [
+        "Gerald J. Sussman",
+        "Gerald J Sussman",
+        "H. Abelson"
+      ],
+      "author_key": [
+        "OL532838A",
+        "OL1963807A",
+        "OL596156A"
+      ],
+      "author_name": [
+        "Harold Abelson",
+        "Gerald Jay Sussman",
+        "Julie Sussman"
+      ],
+      "contributor": [
+        "Sussman, Julie.",
+        "Qiu, Zongyan",
+        "S. Daniels-Herold (Translator)",
+        "Sussman, Julie",
+        "Sussman, Gerald Jay.",
+        "Sussman, G. J.",
+        "Sussman, J.",
+        "A.J. Perlis (Preface)",
+        "Sussman, Gerald J.",
+        "Sussman, Gerald Jay"
+      ],
+      "cover_edition_key": "OL980232M",
+      "cover_i": 149338,
+      "ddc": [
+        "001.642",
+        "005.1",
+        "005.133"
+      ],
+      "ebook_access": "borrowable",
+      "ebook_count_i": 6,
+      "edition_count": 16,
+      "edition_key": [
+        "OL49238817M",
+        "OL9057377M",
+        "OL9573941M",
+        "OL9885749M",
+        "OL10237805M",
+        "OL19826308M",
+        "OL24505833M",
+        "OL28163567M",
+        "OL24754690M",
+        "OL34979954M",
+        "OL27009272M",
+        "OL15495574M",
+        "OL980232M",
+        "OL14975261M",
+        "OL2847540M",
+        "OL25083118M"
+      ],
+      "first_publish_year": 1985,
+      "format": [
+        "Paperback",
+        "Hardcover"
+      ],
+      "has_fulltext": true,
+      "ia": [
+        "jisuanjichengxud0000abel",
+        "structureinterpr00abel",
+        "structureinterpr0000gera",
+        "structureinterpr00abel",
+        "structureinterpr00abel_787",
+        "structureinterpr00abel_595"
+      ],
+      "ia_collection": [
+        "americana",
+        "binghamton-ol",
+        "dartmouthlibrary-ol",
+        "inlibrary",
+        "internetarchivebooks",
+        "johnshopkins-ol",
+        "kalamazoocollege-ol",
+        "occidentalcollegelibrary-ol",
+        "popularchinesebooks",
+        "printdisabled",
+        "rochester-ol",
+        "the-claremont-colleges-ol",
+        "unb-ol",
+        "uni-ol",
+        "universityofarizona-ol",
+        "universityofcoloradoboulder-ol",
+        "universityofoklahoma-ol",
+        "wrlc-ol"
+      ],
+      "ia_collection_s": "americana;binghamton-ol;dartmouthlibrary-ol;inlibrary;internetarchivebooks;johnshopkins-ol;kalamazoocollege-ol;occidentalcollegelibrary-ol;popularchinesebooks;printdisabled;rochester-ol;the-claremont-colleges-ol;unb-ol;uni-ol;universityofarizona-ol;universityofcoloradoboulder-ol;universityofoklahoma-ol;wrlc-ol",
+      "isbn": [
+        "9783540569343",
+        "9780262510455",
+        "9780262010771",
+        "8173715270",
+        "9788320427127",
+        "0262011530",
+        "0262543230",
+        "0262510367",
+        "3540423427",
+        "0262510456",
+        "0262010771",
+        "9787111135104",
+        "9787111630548",
+        "9783540638988",
+        "9780070004221",
+        "9783540423423",
+        "0070004846",
+        "9780262510875",
+        "9780262543231",
+        "9788173715273",
+        "8320427126",
+        "0262510871",
+        "9780262510363",
+        "3540569340",
+        "7111135105",
+        "9780262011532",
+        "3540638989",
+        "0070004226",
+        "7111630548",
+        "9780070004849"
+      ],
+      "key": "/works/OL3267304W",
+      "language": [
+        "chi",
+        "eng",
+        "ger",
+        "fre"
+      ],
+      "last_modified_i": 1713333452,
+      "lcc": [
+        "QA-0076.80000000.T13 A28 1983",
+        "QA-0076.60000000.A255 1985",
+        "QA-0076.60000000.A255 1996"
+      ],
+      "lccn": [
+        "96017756",
+        "84009688",
+        "83002742"
+      ],
+      "lending_edition_s": "OL28163567M",
+      "lending_identifier_s": "jisuanjichengxud0000abel",
+      "number_of_pages_median": 595,
+      "oclc": [
+        "56718298",
+        "10586635",
+        "48721191",
+        "75908246",
+        "75346651"
+      ],
+      "osp_count": 404,
+      "printdisabled_s": "OL28163567M;OL24754690M;OL27009272M;OL2847540M",
+      "public_scan_b": false,
+      "publish_date": [
+        "July 4, 1994",
+        "November 17, 1998",
+        "2004",
+        "July 25th 1996",
+        "Jun 21, 2005",
+        "1996",
+        "1989",
+        "Jul 1996",
+        "1985",
+        "2019-7",
+        "2002",
+        "March 25, 1996",
+        "September 11, 2001",
+        "2022"
+      ],
+      "publish_place": [
+        "S. l",
+        "Warszawa, Poland",
+        "Cambridge, Massachusetts",
+        "Beijing",
+        "Cambridge, Mass",
+        "New York",
+        "Paris",
+        "Zhong xin chu ban she"
+      ],
+      "publish_year": [
+        1985,
+        2019,
+        1989,
+        2022,
+        1994,
+        1996,
+        1998,
+        2001,
+        2002,
+        2004,
+        2005
+      ],
+      "publisher": [
+        "Springer Verlag",
+        "Wydawnictwa Naukowo-Techniczne",
+        "Ji xie gong ye chu ban she",
+        "McGraw-Hill Higher Education",
+        "Springer",
+        "MIT Press",
+        "Inter Éditions",
+        "MIT Press Ltd",
+        "Orient Black Swan",
+        "M I T Press",
+        "McGraw-Hill",
+        "机械工业出版社"
+      ],
+      "seed": [
+        "/books/OL49238817M",
+        "/books/OL9057377M",
+        "/books/OL9573941M",
+        "/books/OL9885749M",
+        "/books/OL10237805M",
+        "/books/OL19826308M",
+        "/books/OL24505833M",
+        "/books/OL28163567M",
+        "/books/OL24754690M",
+        "/books/OL34979954M",
+        "/books/OL27009272M",
+        "/books/OL15495574M",
+        "/books/OL980232M",
+        "/books/OL14975261M",
+        "/books/OL2847540M",
+        "/books/OL25083118M",
+        "/works/OL3267304W",
+        "/authors/OL532838A",
+        "/authors/OL1963807A",
+        "/authors/OL596156A",
+        "/subjects/computer_programming",
+        "/subjects/lisp_(computer_program_language)",
+        "/subjects/mirror",
+        "/subjects/pdf.yt",
+        "/subjects/computer_science",
+        "/subjects/electronic_digital_computers_programming",
+        "/subjects/lisp_(langage_de_programmation)",
+        "/subjects/programmeren_(computers)",
+        "/subjects/computers",
+        "/subjects/programmation_(informatique)",
+        "/subjects/programmierung",
+        "/subjects/lisp",
+        "/subjects/programming",
+        "/subjects/ti_99/4a_(computer)",
+        "/subjects/logo_(computer_program_language)",
+        "/subjects/ti_99/4_(computer)",
+        "/subjects/scheme",
+        "/subjects/computer_systemsprogramming",
+        "/subjects/qa76.6_.a255_1985",
+        "/subjects/qa_76.6_a141s_1985",
+        "/subjects/001.64/2"
+      ],
+      "title": "Structure and Interpretation of Computer Programs (SICP)",
+      "title_suggest": "Structure and Interpretation of Computer Programs (SICP)",
+      "title_sort": "Structure and Interpretation of Computer Programs (SICP)",
+      "type": "work",
+      "id_librarything": [
+        "13008",
+        "13008",
+        "8570310",
+        "13008",
+        "13008",
+        "13008",
+        "13008"
+      ],
+      "id_goodreads": [
+        "3253923",
+        "886484",
+        "43715",
+        "1394820",
+        "777411",
+        "43713",
+        "1394820",
+        "777411",
+        "3414826",
+        "3653490"
+      ],
+      "subject": [
+        "Computer programming",
+        "LISP (Computer program language)",
+        "mirror",
+        "pdf.yt",
+        "Computer science",
+        "Electronic digital computers, programming",
+        "LISP (Langage de programmation)",
+        "Programmeren (computers)",
+        "Computers",
+        "Programmation (Informatique)",
+        "Programmierung",
+        "LISP",
+        "Programming",
+        "TI 99/4A (Computer)",
+        "LOGO (Computer program language)",
+        "TI 99/4 (Computer)",
+        "scheme",
+        "Lisp (computer program language)",
+        "Computer systemsprogramming",
+        "Qa76.6 .a255 1985",
+        "Qa 76.6 a141s 1985",
+        "001.64/2"
+      ],
+      "ia_box_id": [
+        "IA132101"
+      ],
+      "ratings_average": 4.428571,
+      "ratings_sortable": 3.7940235,
+      "ratings_count": 21,
+      "ratings_count_1": 0,
+      "ratings_count_2": 1,
+      "ratings_count_3": 2,
+      "ratings_count_4": 5,
+      "ratings_count_5": 13,
+      "readinglog_count": 139,
+      "want_to_read_count": 108,
+      "currently_reading_count": 7,
+      "already_read_count": 24,
+      "publisher_facet": [
+        "Inter Éditions",
+        "Ji xie gong ye chu ban she",
+        "M I T Press",
+        "MIT Press",
+        "MIT Press Ltd",
+        "McGraw-Hill",
+        "McGraw-Hill Higher Education",
+        "Orient Black Swan",
+        "Springer",
+        "Springer Verlag",
+        "Wydawnictwa Naukowo-Techniczne",
+        "机械工业出版社"
+      ],
+      "subject_facet": [
+        "001.64/2",
+        "Computer programming",
+        "Computer science",
+        "Computer systemsprogramming",
+        "Computers",
+        "Electronic digital computers, programming",
+        "LISP",
+        "LISP (Computer program language)",
+        "LISP (Langage de programmation)",
+        "LOGO (Computer program language)",
+        "Lisp (computer program language)",
+        "Programmation (Informatique)",
+        "Programmeren (computers)",
+        "Programmierung",
+        "Programming",
+        "Qa 76.6 a141s 1985",
+        "Qa76.6 .a255 1985",
+        "TI 99/4 (Computer)",
+        "TI 99/4A (Computer)",
+        "mirror",
+        "pdf.yt",
+        "scheme"
+      ],
+      "_version_": 1796660962071150600,
+      "lcc_sort": "QA-0076.80000000.T13 A28 1983",
+      "author_facet": [
+        "OL1963807A Gerald Jay Sussman",
+        "OL532838A Harold Abelson",
+        "OL596156A Julie Sussman"
+      ],
+      "subject_key": [
+        "001.642",
+        "computer_programming",
+        "computer_science",
+        "computer_systemsprogramming",
+        "computers",
+        "electronic_digital_computers_programming",
+        "lisp",
+        "lisp_(computer_program_language)",
+        "lisp_(langage_de_programmation)",
+        "logo_(computer_program_language)",
+        "mirror",
+        "pdf.yt",
+        "programmation_(informatique)",
+        "programmeren_(computers)",
+        "programmierung",
+        "programming",
+        "qa76.6_.a255_1985",
+        "qa_76.6_a141s_1985",
+        "scheme",
+        "ti_994_(computer)",
+        "ti_994a_(computer)"
+      ],
+      "ddc_sort": "001.642"
+    },
+    {
+      "id": "9780764576591",
+      "author_key": [
+        "OL406773A"
+      ],
+      "author_name": [
+        "Emily A. Vander Veer"
+      ],
+      "cover_edition_key": "OL1019794M",
+      "cover_i": 3863999,
+      "ddc": [
+        "005.2762"
+      ],
+      "ebook_access": "printdisabled",
+      "ebook_count_i": 4,
+      "edition_count": 8,
+      "edition_key": [
+        "OL39886883M",
+        "OL709666M",
+        "OL3315057M",
+        "OL39830341M",
+        "OL20943393M",
+        "OL24260815M",
+        "OL1019794M",
+        "OL8041677M"
+      ],
+      "first_publish_year": 1996,
+      "first_sentence": [
+        "JavaScript is one of the coolest Web tools around-and its use is spreading like wildfire."
+      ],
+      "format": [
+        "Paperback",
+        "Electronic resource"
+      ],
+      "has_fulltext": true,
+      "ia": [
+        "javascriptfordum00vand_1",
+        "javascriptfordum0000vand",
+        "javascriptfordum00veer",
+        "javascriptfordum00veer_346"
+      ],
+      "ia_collection": [
+        "internetarchivebooks",
+        "printdisabled",
+        "wrlc-ol"
+      ],
+      "ia_collection_s": "internetarchivebooks;printdisabled;wrlc-ol",
+      "isbn": [
+        "9780764576591",
+        "9780764528262",
+        "9780470199480",
+        "0764576593",
+        "0764528262",
+        "9780764506338",
+        "9780764584077",
+        "0764584073",
+        "9780764502231",
+        "0470199482",
+        "0764506331",
+        "9780764500718",
+        "0764500716",
+        "0764502239"
+      ],
+      "key": "/works/OL2765872W",
+      "language": [
+        "eng"
+      ],
+      "last_modified_i": 1703029788,
+      "lcc": [
+        "QA-0076.73000000.J39V36 1996",
+        "QA-0076.73000000.J39V36 1997",
+        "QA-0076.73000000.J39 V36 1997",
+        "QA-0076.73000000.J39 V36 2000",
+        "QA-0076.73000000.J39V36 2005",
+        "QA-0076.73000000.J39 V36 1996",
+        "QA-0076.73000000.J39V36 2000",
+        "QA-0076.73000000.J39 V36 2005",
+        "QA-0076.73000000.J39"
+      ],
+      "lccn": [
+        "00106297",
+        "97073299",
+        "96077948",
+        "2004107963"
+      ],
+      "number_of_pages_median": 375,
+      "oclc": [
+        "35921912",
+        "57306138"
+      ],
+      "osp_count": 9,
+      "printdisabled_s": "OL709666M;OL20943393M",
+      "public_scan_b": false,
+      "publish_date": [
+        "1996",
+        "2007",
+        "1997",
+        "2005",
+        "2000",
+        "October 15, 2000",
+        "2004",
+        "2001"
+      ],
+      "publish_place": [
+        "New York",
+        "Foster City, CA",
+        "Hoboken, NJ"
+      ],
+      "publish_year": [
+        1996,
+        1997,
+        2000,
+        2001,
+        2004,
+        2005,
+        2007
+      ],
+      "publisher": [
+        "Wiley & Sons, Incorporated, John",
+        "John Wiley & Sons, Ltd.",
+        "For Dummies",
+        "IDG Books Worldwide",
+        "IDG Books Worldwide, Inc.",
+        "Wiley Pub."
+      ],
+      "seed": [
+        "/books/OL39886883M",
+        "/books/OL709666M",
+        "/books/OL3315057M",
+        "/books/OL39830341M",
+        "/books/OL20943393M",
+        "/books/OL24260815M",
+        "/books/OL1019794M",
+        "/books/OL8041677M",
+        "/works/OL2765872W",
+        "/authors/OL406773A",
+        "/subjects/javascript_(computer_program_language)",
+        "/subjects/computer_technology",
+        "/subjects/nonfiction",
+        "/subjects/web_publishing",
+        "/subjects/computers",
+        "/subjects/programming_languages",
+        "/subjects/vbscript",
+        "/subjects/javascript",
+        "/subjects/electronic_book_collection",
+        "/subjects/internet_programming",
+        "/subjects/network_programming",
+        "/subjects/scripting_languages",
+        "/subjects/web_programming"
+      ],
+      "title": "JavaScript for dummies",
+      "title_suggest": "JavaScript for dummies",
+      "title_sort": "JavaScript for dummies",
+      "type": "work",
+      "id_goodreads": [
+        "3346436",
+        "852932",
+        "1908488",
+        "3525491",
+        "1908488"
+      ],
+      "id_librarything": [
+        "68269",
+        "68269",
+        "68269",
+        "68269",
+        "68269"
+      ],
+      "id_overdrive": [
+        "D8F5A473-5A55-4842-9CB9-801D0E115C82"
+      ],
+      "subject": [
+        "JavaScript (Computer program language)",
+        "Computer Technology",
+        "Nonfiction",
+        "Web publishing",
+        "COMPUTERS",
+        "Programming Languages",
+        "VBScript",
+        "JavaScript",
+        "Electronic book collection",
+        "Javascript (computer program language)",
+        "Internet, programming",
+        "Network programming",
+        "Scripting languages",
+        "Web programming"
+      ],
+      "ia_loaded_id": [
+        "javascriptfordum00vand"
+      ],
+      "ia_box_id": [
+        "IA175501"
+      ],
+      "readinglog_count": 44,
+      "want_to_read_count": 40,
+      "currently_reading_count": 4,
+      "already_read_count": 0,
+      "publisher_facet": [
+        "For Dummies",
+        "IDG Books Worldwide",
+        "IDG Books Worldwide, Inc.",
+        "John Wiley & Sons, Ltd.",
+        "Wiley & Sons, Incorporated, John",
+        "Wiley Pub."
+      ],
+      "subject_facet": [
+        "COMPUTERS",
+        "Computer Technology",
+        "Electronic book collection",
+        "Internet, programming",
+        "JavaScript",
+        "JavaScript (Computer program language)",
+        "Javascript (computer program language)",
+        "Network programming",
+        "Nonfiction",
+        "Programming Languages",
+        "Scripting languages",
+        "VBScript",
+        "Web programming",
+        "Web publishing"
+      ],
+      "_version_": 1795893200135651300,
+      "lcc_sort": "QA-0076.73000000.J39 V36 1997",
+      "author_facet": [
+        "OL406773A Emily A. Vander Veer"
+      ],
+      "subject_key": [
+        "computer_technology",
+        "computers",
+        "electronic_book_collection",
+        "internet_programming",
+        "javascript",
+        "javascript_(computer_program_language)",
+        "network_programming",
+        "nonfiction",
+        "programming_languages",
+        "scripting_languages",
+        "vbscript",
+        "web_programming",
+        "web_publishing"
+      ],
+      "ddc_sort": "005.2762"
+    },
+    {
+      "id": "0619063335",
+      "author_key": [
+        "OL320213A"
+      ],
+      "author_name": [
+        "Don Gosselin"
+      ],
+      "cover_edition_key": "OL22472602M",
+      "cover_i": 4640658,
+      "ddc": [
+        "005.133"
+      ],
+      "ebook_access": "borrowable",
+      "ebook_count_i": 2,
+      "edition_count": 4,
+      "edition_key": [
+        "OL8495835M",
+        "OL22108275M",
+        "OL18454214M",
+        "OL22472602M"
+      ],
+      "first_publish_year": 2002,
+      "format": [
+        "Paperback"
+      ],
+      "has_fulltext": true,
+      "ia": [
+        "javascript0000goss_k6g3",
+        "javascript0000goss"
+      ],
+      "ia_collection": [
+        "inlibrary",
+        "internetarchivebooks",
+        "printdisabled",
+        "uni-ol"
+      ],
+      "ia_collection_s": "inlibrary;internetarchivebooks;printdisabled;uni-ol",
+      "isbn": [
+        "0619063335",
+        "1423901509",
+        "9780619215217",
+        "0619215216",
+        "9781423901501",
+        "9780619063337"
+      ],
+      "key": "/works/OL2358086W",
+      "language": [
+        "eng"
+      ],
+      "last_modified_i": 1703038165,
+      "lcc": [
+        "QA-0076.73000000.J39 G68 2002",
+        "QA-0076.73000000.J39 G67 2008"
+      ],
+      "lccn": [
+        "2008270987"
+      ],
+      "lending_edition_s": "OL22108275M",
+      "lending_identifier_s": "javascript0000goss_k6g3",
+      "number_of_pages_median": 710,
+      "oclc": [
+        "54791236"
+      ],
+      "osp_count": 142,
+      "printdisabled_s": "OL22108275M",
+      "public_scan_b": false,
+      "publish_date": [
+        "September 7, 2007",
+        "2004",
+        "2002",
+        "2008"
+      ],
+      "publish_place": [
+        "Boston, Mass",
+        "Boston"
+      ],
+      "publish_year": [
+        2008,
+        2002,
+        2004,
+        2007
+      ],
+      "publisher": [
+        "Thomson / Course Technology",
+        "Thomson Course Technology",
+        "Course Technology"
+      ],
+      "seed": [
+        "/books/OL8495835M",
+        "/books/OL22108275M",
+        "/books/OL18454214M",
+        "/books/OL22472602M",
+        "/works/OL2358086W",
+        "/authors/OL320213A",
+        "/subjects/javascript_(computer_program_language)",
+        "/subjects/javascript"
+      ],
+      "title": "JavaScript",
+      "title_suggest": "JavaScript",
+      "title_sort": "JavaScript",
+      "type": "work",
+      "id_goodreads": [
+        "2495539",
+        "852939",
+        "2495539",
+        "1475235"
+      ],
+      "id_librarything": [
+        "311815",
+        "3202259",
+        "311815",
+        "271949"
+      ],
+      "subject": [
+        "JavaScript (Computer program language)",
+        "JavaScript"
+      ],
+      "readinglog_count": 52,
+      "want_to_read_count": 44,
+      "currently_reading_count": 4,
+      "already_read_count": 4,
+      "publisher_facet": [
+        "Course Technology",
+        "Thomson / Course Technology",
+        "Thomson Course Technology"
+      ],
+      "subject_facet": [
+        "JavaScript",
+        "JavaScript (Computer program language)"
+      ],
+      "_version_": 1795883426132263000,
+      "lcc_sort": "QA-0076.73000000.J39 G68 2002",
+      "author_facet": [
+        "OL320213A Don Gosselin"
+      ],
+      "subject_key": [
+        "javascript",
+        "javascript_(computer_program_language)"
+      ],
+      "ddc_sort": "005.133"
+    },
+    {
+      "id": "9781593276614",
+      "author_key": [
+        "OL6839743A"
+      ],
+      "author_name": [
+        "Marijn Haverbeke"
+      ],
+      "cover_i": 7082166,
+      "ddc": [
+        "005.133"
+      ],
+      "ebook_access": "public",
+      "ebook_count_i": 4,
+      "edition_count": 6,
+      "edition_key": [
+        "OL24494556M",
+        "OL26832992M",
+        "OL26837850M",
+        "OL40274783M",
+        "OL24411757M",
+        "OL31918796M"
+      ],
+      "first_publish_year": 2009,
+      "first_sentence": [
+        "This is a book about getting computers to do what you want them to do."
+      ],
+      "format": [
+        "eBook",
+        "Web Book",
+        "Paperback"
+      ],
+      "has_fulltext": true,
+      "ia": [
+        "2018eloquentjavascript",
+        "eloquentjavascri0000have_t2s7",
+        "eloquentjavascri00have_595",
+        "eloquentjavascri00have_492"
+      ],
+      "ia_collection": [
+        "additional_collections",
+        "folkscanomy",
+        "folkscanomy_computer",
+        "folkscanomy_computer_inbox",
+        "inlibrary",
+        "internetarchivebooks",
+        "printdisabled"
+      ],
+      "ia_collection_s": "additional_collections;folkscanomy;folkscanomy_computer;folkscanomy_computer_inbox;inlibrary;internetarchivebooks;printdisabled",
+      "isbn": [
+        "9781593276614",
+        "1593279507",
+        "1593272820",
+        "1593275846",
+        "9781593272821",
+        "9781593279509",
+        "9781593275846",
+        "1593276613"
+      ],
+      "key": "/works/OL15444205W",
+      "language": [
+        "eng"
+      ],
+      "last_modified_i": 1703041584,
+      "lcc": [
+        "QA-0076.73000000.J39 H38 2009",
+        "QA-0076.73000000.J39 H38 2011",
+        "QA-0076.73000000.J39H38 2019",
+        "QA-0076.73000000.J39 H38 2015",
+        "QA-0076.73000000.J39"
+      ],
+      "lccn": [
+        "2015451620",
+        "2010032246"
+      ],
+      "lending_edition_s": "OL26832992M",
+      "lending_identifier_s": "2018eloquentjavascript",
+      "number_of_pages_median": 472,
+      "oclc": [
+        "880566682"
+      ],
+      "osp_count": 282,
+      "printdisabled_s": "OL26837850M",
+      "public_scan_b": true,
+      "publish_date": [
+        "Dec 14, 2014",
+        "2009",
+        "Dec 04, 2018",
+        "2018",
+        "December 2014"
+      ],
+      "publish_place": [
+        "San Francisco",
+        "San Francisco, California, United States of America"
+      ],
+      "publish_year": [
+        2009,
+        2018,
+        2014
+      ],
+      "publisher": [
+        "No Starch Press",
+        "eloquentjavascript.net"
+      ],
+      "seed": [
+        "/books/OL24494556M",
+        "/books/OL26832992M",
+        "/books/OL26837850M",
+        "/books/OL40274783M",
+        "/books/OL24411757M",
+        "/books/OL31918796M",
+        "/works/OL15444205W",
+        "/authors/OL6839743A",
+        "/subjects/javascript_(computer_program_language)",
+        "/subjects/computer_science",
+        "/subjects/programming_languages",
+        "/subjects/javascript",
+        "/subjects/java_(computer_program_language)"
+      ],
+      "title": "Eloquent Javascript",
+      "title_suggest": "Eloquent Javascript",
+      "title_sort": "Eloquent Javascript",
+      "type": "work",
+      "subject": [
+        "JavaScript (Computer program language)",
+        "Computer science",
+        "programming languages",
+        "JavaScript",
+        "Java (computer program language)"
+      ],
+      "ratings_count_1": 0,
+      "ratings_count_2": 0,
+      "ratings_count_3": 0,
+      "ratings_count_4": 5,
+      "ratings_count_5": 5,
+      "ratings_average": 4.5,
+      "ratings_sortable": 3.523686,
+      "ratings_count": 10,
+      "readinglog_count": 73,
+      "want_to_read_count": 50,
+      "currently_reading_count": 10,
+      "already_read_count": 13,
+      "publisher_facet": [
+        "No Starch Press",
+        "eloquentjavascript.net"
+      ],
+      "subject_facet": [
+        "Computer science",
+        "Java (computer program language)",
+        "JavaScript",
+        "JavaScript (Computer program language)",
+        "programming languages"
+      ],
+      "_version_": 1795857445992530000,
+      "lcc_sort": "QA-0076.73000000.J39 H38 2009",
+      "author_facet": [
+        "OL6839743A Marijn Haverbeke"
+      ],
+      "subject_key": [
+        "computer_science",
+        "java_(computer_program_language)",
+        "javascript",
+        "javascript_(computer_program_language)",
+        "programming_languages"
+      ],
+      "ddc_sort": "005.133"
+    },
+    {
+      "id": "0764573772",
+      "author_key": [
+        "OL1607002A"
+      ],
+      "author_name": [
+        "Paul Wilton"
+      ],
+      "contributor": [
+        "ebrary, Inc",
+        "McPeak, Jeremy, 1979-"
+      ],
+      "cover_edition_key": "OL3963471M",
+      "cover_i": 916262,
+      "ddc": [
+        "005.133",
+        "005.2762"
+      ],
+      "ebook_access": "printdisabled",
+      "ebook_count_i": 6,
+      "edition_count": 15,
+      "edition_key": [
+        "OL33418492M",
+        "OL17162147M",
+        "OL32071630M",
+        "OL22372843M",
+        "OL24320080M",
+        "OL27020356M",
+        "OL24269330M",
+        "OL24252805M",
+        "OL7595396M",
+        "OL21112632M",
+        "OL3963471M",
+        "OL16161044M",
+        "OL8050873M",
+        "OL9365630M",
+        "OL24277407M"
+      ],
+      "first_publish_year": 2000,
+      "first_sentence": [
+        "In this introductory chapter, we'll take a look at what JavaScript is, what it can do for you, and what you need to be able to use it."
+      ],
+      "format": [
+        "eBook",
+        "Electronic resource",
+        "Paperback",
+        "School & Library Binding",
+        "[electronic resource] /"
+      ],
+      "has_fulltext": true,
+      "ia": [
+        "beginningjavascr00wilt",
+        "beginningjavascr00paul",
+        "beginningjavascr00wilt_396",
+        "beginningjavascr00wilt_168",
+        "beginningjavascr00wilt_306",
+        "beginningjavascr00wilt_097"
+      ],
+      "ia_collection": [
+        "americana",
+        "delawarecountydistrictlibrary",
+        "internetarchivebooks",
+        "ithacacollege-ol",
+        "library_of_atlantis",
+        "marymount-ol",
+        "openlibrary-d-ol",
+        "printdisabled",
+        "the-claremont-colleges-ol",
+        "universityofoklahoma-ol"
+      ],
+      "ia_collection_s": "americana;delawarecountydistrictlibrary;internetarchivebooks;ithacacollege-ol;library_of_atlantis;marymount-ol;openlibrary-d-ol;printdisabled;the-claremont-colleges-ol;universityofoklahoma-ol",
+      "isbn": [
+        "0764573772",
+        "0764544055",
+        "0470631783",
+        "0470051515",
+        "0470171375",
+        "9780764544057",
+        "9780470631782",
+        "9781417625659",
+        "9780470051511",
+        "9781118057384",
+        "9780764573774",
+        "0470525932",
+        "0764558552",
+        "1417625651",
+        "9781861004062",
+        "1861004060",
+        "9780764558559",
+        "9780470171370",
+        "1118057384",
+        "9780764555879",
+        "0764555871",
+        "9780470525937"
+      ],
+      "key": "/works/OL6220957W",
+      "language": [
+        "eng"
+      ],
+      "last_modified_i": 1703029786,
+      "lcc": [
+        "QA-0076.73000000.J39",
+        "QA-0076.73000000.J39W55 2004",
+        "QA-0076.73000000.J39 W55 2010eb",
+        "QA-0076.73000000.J39 W55 2003",
+        "QA-0076.73000000.J39 W55 2007",
+        "QA-0076.73000000.J39W55 2003",
+        "QA-0076.73000000.J39 W55 2000",
+        "QA-0076.73000000.J",
+        "QA-0076.73000000.J39W55 2000",
+        "QA-0076.73000000.J39W55 2007",
+        "QA-0076.73000000.J39 W55 2004"
+      ],
+      "lccn": [
+        "2004103175",
+        "2001267773",
+        "2003107060",
+        "2007008102"
+      ],
+      "number_of_pages_median": 901,
+      "oclc": [
+        "647849366",
+        "45788532",
+        "55199563"
+      ],
+      "osp_count": 123,
+      "printdisabled_s": "OL22372843M;OL21112632M",
+      "public_scan_b": false,
+      "publish_date": [
+        "2004",
+        "2003",
+        "2007",
+        "2000",
+        "May 7, 2004",
+        "June 2000",
+        "2011",
+        "May 21, 2007",
+        "2010",
+        "2005"
+      ],
+      "publish_place": [
+        "Indianapolis, IN",
+        "Indianapolis, In",
+        "Birmingham, England",
+        "Hoboken, NJ",
+        "New York"
+      ],
+      "publish_year": [
+        2000,
+        2003,
+        2004,
+        2005,
+        2007,
+        2010,
+        2011
+      ],
+      "publisher": [
+        "Wiley Pub.",
+        "John Wiley & Sons, Ltd.",
+        "Tandem Library",
+        "Wiley",
+        "Wiley Technology Pub.",
+        "Wrox Press",
+        "Wiley & Sons, Incorporated, John",
+        "Wrox"
+      ],
+      "seed": [
+        "/books/OL33418492M",
+        "/books/OL17162147M",
+        "/books/OL32071630M",
+        "/books/OL22372843M",
+        "/books/OL24320080M",
+        "/books/OL27020356M",
+        "/books/OL24269330M",
+        "/books/OL24252805M",
+        "/books/OL7595396M",
+        "/books/OL21112632M",
+        "/books/OL3963471M",
+        "/books/OL16161044M",
+        "/books/OL8050873M",
+        "/books/OL9365630M",
+        "/books/OL24277407M",
+        "/works/OL6220957W",
+        "/authors/OL1607002A",
+        "/subjects/computer_technology",
+        "/subjects/world_wide_web",
+        "/subjects/javascript_(computer_program_language)",
+        "/subjects/web_servers",
+        "/subjects/nonfiction",
+        "/subjects/design",
+        "/subjects/computer_programs",
+        "/subjects/web_publishing"
+      ],
+      "title": "Beginning JavaScript",
+      "title_suggest": "Beginning JavaScript",
+      "title_sort": "Beginning JavaScript",
+      "type": "work",
+      "id_goodreads": [
+        "661338",
+        "4533656",
+        "661338",
+        "852922",
+        "4533656",
+        "3933755",
+        "852922"
+      ],
+      "id_librarything": [
+        "2677162",
+        "6411",
+        "2677162",
+        "180507",
+        "6411",
+        "6411",
+        "180507"
+      ],
+      "id_overdrive": [
+        "1EE78E83-383A-4410-A598-CE0BE70C7FA8",
+        "43D48457-EFAD-49B9-B447-CC26A2CABF81",
+        "EA80111A-7D51-4632-BED9-3C781F269178",
+        "3B990A45-E88A-48CE-80A7-97D2A3FE6142"
+      ],
+      "subject": [
+        "Computer Technology",
+        "World Wide Web",
+        "JavaScript (Computer program language)",
+        "Web servers",
+        "Nonfiction",
+        "Design",
+        "Computer programs",
+        "Web publishing",
+        "Javascript (computer program language)",
+        "World wide web"
+      ],
+      "ia_loaded_id": [
+        "beginningjavascr00wilt"
+      ],
+      "ia_box_id": [
+        "IA175901"
+      ],
+      "readinglog_count": 15,
+      "want_to_read_count": 14,
+      "currently_reading_count": 1,
+      "already_read_count": 0,
+      "publisher_facet": [
+        "John Wiley & Sons, Ltd.",
+        "Tandem Library",
+        "Wiley",
+        "Wiley & Sons, Incorporated, John",
+        "Wiley Pub.",
+        "Wiley Technology Pub.",
+        "Wrox",
+        "Wrox Press"
+      ],
+      "subject_facet": [
+        "Computer Technology",
+        "Computer programs",
+        "Design",
+        "JavaScript (Computer program language)",
+        "Javascript (computer program language)",
+        "Nonfiction",
+        "Web publishing",
+        "Web servers",
+        "World Wide Web",
+        "World wide web"
+      ],
+      "_version_": 1795923412782153700,
+      "lcc_sort": "QA-0076.73000000.J39 W55 2010eb",
+      "author_facet": [
+        "OL1607002A Paul Wilton"
+      ],
+      "subject_key": [
+        "computer_programs",
+        "computer_technology",
+        "design",
+        "javascript_(computer_program_language)",
+        "nonfiction",
+        "web_publishing",
+        "web_servers",
+        "world_wide_web"
+      ],
+      "ddc_sort": "005.2762"
+    }
+  ]
+}

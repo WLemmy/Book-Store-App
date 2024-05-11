@@ -1,12 +1,12 @@
 import { Book, Loading } from './';
 
-const BookList = ({books}) => {
+const BookList = ({books, favorites, handleAddRemoveFavorite, loading}) => {
   return (
     <>
         {
-            books.length !== 0 ?
-                <div className="grid grid-cols-6 gap-5">
-                    {books && books.map(book => book.isbn ? <Book key = {book.isbn[0]} book={book} /> : "")}
+            !loading ?
+                <div className="grid grid-cols-4 gap-5">
+                    {books && books.map(book => book.isbn ? <Book handleAddRemoveFavorite = { handleAddRemoveFavorite } key = {book.isbn[0]} book={book} favorites = {favorites} /> : "")}
                 </div>
             : 
             

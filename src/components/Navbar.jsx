@@ -2,14 +2,14 @@ import { Link } from "react-router-dom"
 
 const Navbar = () => {
   return (
-    <nav className="" >
+    <nav className="bg-slate-900 text-white">
         <div className="container mx-auto max-w-7xl flex gap-5 justify-between">
-            <div>
+            <div className="p-3">
                 <Link to = "/">Home</Link>
             </div>
 
             <div> 
-                <ul className="flex gap-5">
+                <ul className="flex gap-5 p-3">
                     <li>
                         <Link to="/">Home</Link>
                     </li>
