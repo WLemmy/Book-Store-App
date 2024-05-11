@@ -1,11 +1,20 @@
-import React from 'react';
-import { Book } from './';
+import { Book, Loading } from './';
 
-export const BookList = ({books}) => {
+const BookList = ({books}) => {
   return (
-    <div>
-      {books && books.map(book => <Book books={book} />)}
-    </div>
+    <>
+        {
+            books.length !== 0 ?
+                <div className="grid grid-cols-6 gap-5">
+                    {books && books.map(book => book.isbn ? <Book key = {book.isbn[0]} book={book} /> : "")}
+                </div>
+            : 
+            
+            <div className="text-center"><Loading /></div>
+        }
+    </>
+    
   )
 }
+
 export default BookList;
