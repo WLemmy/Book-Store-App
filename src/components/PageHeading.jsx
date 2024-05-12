@@ -5,7 +5,7 @@ const PageHeading = ({ text }) => {
   const words = text.split(' ');
 
   return (
-    <div className="container mx-auto max-w-7xl py-8 px-4">
+    <div className="ctext-lg text-white mt-4 container mx-auto max-w-7xl py-8 px-4">
       <h1 className="text-3xl font-bold">
         {/* Map through the words and apply styles to specific ones */}
         {words.map((word, index) => (
