@@ -1,12 +1,15 @@
 import React from "react";
 import { Link } from "react-router-dom";
+import logo from "../assets/java.png"; // Corrected import path
 
 const Navbar = () => {
   return (
     <nav className="bg-slate-900 text-white">
       <div className="container mx-auto max-w-7xl flex justify-between items-center py-3 px-4">
         <div>
-          <Link to="/" className="text-xl font-bold">The JavaScript BookStore</Link>
+          <Link to="/">
+            <img src={logo} alt="BookStore Logo" className="h-10" />
+          </Link>
         </div>
         <div>
           <ul className="flex gap-5">
