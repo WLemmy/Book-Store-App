@@ -8,7 +8,7 @@ const Navbar = () => {
       <div className="container mx-auto max-w-7xl flex justify-between items-center py-3 px-4">
         <div>
           <Link to="/">
-            <img src={logo} alt="BookStore Logo" className="h-10" />
+            <img src={logo} alt="BookStore Logo" className="h-20" />
           </Link>
         </div>
         <div>
