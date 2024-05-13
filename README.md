@@ -40,11 +40,11 @@ git@github.com:WLemmy/Book-Store-App.git
 Install NPM packages
 npm install
 
-###### Conclusion
+##### Conclusion
 JSBookHub is more than just a platform for learning JavaScript—it's a vibrant ecosystem where passion for coding meets innovation. Join JSBookHub today and embark on a journey of continuous learning, growth, and discovery in the exciting world of JavaScript development.
 "At JSBookHub, our mission is to empower individuals worldwide to master JavaScript and unlock their potential as innovative developers. Through our comprehensive collection of high-quality books, interactive learning resources, and vibrant community, we strive to provide accessible, personalized, and engaging learning experiences. By fostering a culture of continuous learning, collaboration, and creativity, we aim to inspire and equip JavaScript enthusiasts at every skill level to thrive in the dynamic landscape of web development."
 
-####### Demo You can view a live demo of the BookApp
+###### Demo You can view a live demo of the BookApp
 [https://vercel.com/wilfreds-projects-fc5d89a8/book-store-app-kynt]
-####### LicenseDemo You can view a live demo of the BookApp
+###### LicenseDemo You can view a live demo of the BookApp
 This project is licensed under the [Wilfred] License - see the LICENSE.md file for details.
