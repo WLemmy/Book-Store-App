@@ -1,3 +1,6 @@
+![Screenshot from 2024-05-13 11-42-05](https://github.com/WLemmy/Book-Store-App/assets/122609157/0a959de2-8669-4161-9a4e-f2c7ba6e67e7)
+
+
 # JSBookHub: Your Ultimate Destination for JavaScript Learning
 JSBookHub is a single-page application (SPA) designed to serve as the go-to platform for JavaScript enthusiasts, learners, and professionals. With an extensive collection of JavaScript books, interactive learning resources, and a vibrant community, JSBookHub aims to revolutionize the way people learn and engage with JavaScript.
 
