@@ -13,6 +13,19 @@ JSBookHub is a single-page application (SPA) designed to serve as the go-to plat
 
 ### Unique Selling Proposition (USP)
 JSBookHub stands out from existing platforms by offering a curated collection of high-quality JavaScript books, interactive learning tools, personalized recommendations, and a thriving community-driven environment. Whether you're a novice or an expert, JSBookHub empowers you to unlock your full potential and excel in JavaScript development.
+#### Technologies used for JSBookHub
+
+    • Frontend:
+    • React.js: 
+    • React Router:
+    • Tailwind CSS:
+    • Context API;
+    • Webpack: 
+    • Backend:
+    • Node.js: 
+      Development and Deployment Tools:
+    • GitHub
+    • vercel 
 
 #### Prerequisites
 This is an example of how to list things you need to use the software and how to install them.
@@ -33,5 +46,5 @@ JSBookHub is more than just a platform for learning JavaScript—it's a vibrant 
 
 ####### Demo You can view a live demo of the BookApp
 [https://vercel.com/wilfreds-projects-fc5d89a8/book-store-app-kynt]
-####### LicenseDemo You can view a live demo of the Weather App
-This project is licensed under the [Wilfred] License - see the LICENSE.md file for details
+####### LicenseDemo You can view a live demo of the BookApp
+This project is licensed under the [Wilfred] License - see the LICENSE.md file for details.
