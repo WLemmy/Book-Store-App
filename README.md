@@ -36,7 +36,7 @@ npm install
 Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services.
 
 ###### Clone the repo
-git@github.com:WLemmy/Book-Store-App.git
+[git clone git@github.com:WLemmy/Book-Store-App.git]
 Install NPM packages
 npm install
 
